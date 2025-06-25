@@ -1,3 +1,5 @@
+![ETL Pipeline Architecture](images/etl-pipeline.png)
+
 ### Network Security Projects For Phising Data
 
 Setup github secrets:
