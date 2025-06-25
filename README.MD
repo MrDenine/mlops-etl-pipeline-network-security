@@ -1,4 +1,4 @@
-![ETL Pipeline Architecture](https://github.com/MrDenine/mlops-etl-pipeline-network-security/blob/master/images/ETL-Pipeline.jpg)
+![ETL Pipeline Architecture](https://github.com/MrDenine/mlops-etl-pipeline-network-security/blob/master/images/ETL-Pipeline.jpg?raw=true)
 
 ### Network Security Projects For Phising Data
 
