@@ -1,4 +1,4 @@
-![ETL Pipeline Architecture](images/etl-pipeline.png)
+![ETL Pipeline Architecture](images/etl-pipeline.jpg)
 
 ### Network Security Projects For Phising Data
 
