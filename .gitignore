@@ -2,3 +2,5 @@ venv/
 .env
 .vscode/
 logs/
+artifacts/
+mlruns/
