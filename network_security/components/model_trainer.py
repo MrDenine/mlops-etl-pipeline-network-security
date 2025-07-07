@@ -30,9 +30,17 @@ from sklearn.ensemble import (
     GradientBoostingClassifier,
     AdaBoostClassifier,
 )
-
 import mlflow
 import mlflow.sklearn
+import dagshub
+from dotenv import load_dotenv
+
+load_dotenv()
+
+DAGSHUB_REPO_OWNER = os.getenv("DAGSHUB_REPO_OWNER")
+DAGSHUB_REPO_NAME = os.getenv("DAGSHUB_REPO_NAME")
+
+dagshub.init(repo_owner=DAGSHUB_REPO_OWNER, repo_name=DAGSHUB_REPO_NAME, mlflow=True)
 
 
 class ModelTrainer:
