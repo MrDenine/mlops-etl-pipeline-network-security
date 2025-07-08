@@ -4,3 +4,4 @@ venv/
 logs/
 artifacts/
 mlruns/
+final_model/
