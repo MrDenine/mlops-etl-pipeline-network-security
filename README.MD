@@ -326,14 +326,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **MLflow** for experiment tracking
 - **FastAPI** for web framework
 - **scikit-learn** for machine learning algorithms
-
-## 📞 Support
-
-For questions and support:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation and logs
-
 ---
 
 **Note**: This is an educational project for learning MLOps concepts and best practices. For production use, additional security measures and optimizations should be implemented.
